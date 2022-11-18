@@ -1,0 +1,5 @@
+# Created at 2022-11-16T18:59:48.993
+Boot Manifest-JAR contains absolute paths in classpath 'F:\Chrome Download\Rsoft-main\Rsoft-main\Hybrid_Framework_ExtentReport\SalezRobot_WebSite\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

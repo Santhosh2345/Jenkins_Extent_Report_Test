@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Rsoft_Chatbot_and_Whatsapp(failed)">
+    <classes>
+      <class name="com.salezrobot.salezRobotWebsite_Test.Rsoft_Website_ChatBot_and_Whatsapp_Test">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="startReport"/>
+          <include name="setValues"/>
+          <include name="clikable_Elements_in_SalezRobot_Website"/>
+          <include name="beforeMethod"/>
+          <include name="report"/>
+          <include name="tearDownClass"/>
+          <include name="stopReport"/>
+          <include name="setUpClass"/>
+        </methods>
+      </class> <!-- com.salezrobot.salezRobotWebsite_Test.Rsoft_Website_ChatBot_and_Whatsapp_Test -->
+    </classes>
+  </test> <!-- Rsoft_Chatbot_and_Whatsapp(failed) -->
+</suite> <!-- Failed suite [Suite] -->
